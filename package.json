@@ -6,7 +6,7 @@
   "scripts": {
     "test": "./node_modules/.bin/wdio"
   },
-  "author": "uabeseda",
+  "author": "Yurii Besedin <uabeseda@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@wdio/cli": "^5.12.1",
@@ -15,5 +15,6 @@
     "@wdio/selenium-standalone-service": "^5.12.1",
     "@wdio/spec-reporter": "^5.12.1",
     "@wdio/sync": "^5.12.3"
-  }
+  },
+  "repository": "https://github.com/yuriieasternpeak/wdio-edge-switchtoframe.git"
 }
