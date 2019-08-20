@@ -1,0 +1,19 @@
+{
+  "name": "wdio-edge-switchtoframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio"
+  },
+  "author": "uabeseda",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^5.12.1",
+    "@wdio/local-runner": "^5.12.1",
+    "@wdio/mocha-framework": "^5.12.1",
+    "@wdio/selenium-standalone-service": "^5.12.1",
+    "@wdio/spec-reporter": "^5.12.1",
+    "@wdio/sync": "^5.12.3"
+  }
+}
