@@ -1,13 +1,6 @@
 'use strict';
 
-
 describe('applitools', function () {
-
-  beforeEach(async function () {
-  });
-
-  afterEach(async function () {
-  });
 
   it('test', async () => {
     try {
